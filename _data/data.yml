@@ -116,7 +116,7 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Projects Data Base
-        link: github.com/Jonics7/diary_tasks_v2
+        link: "https://github.com/Jonics7/diary_tasks_v2"
         tagline: "Платформа для хранения своих проектов"
 
       # - title: DevStudio
