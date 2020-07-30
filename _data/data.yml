@@ -32,12 +32,12 @@ sidebar:
       - idiom: Английский
         level: Базовый
 
-    # interests:
-    #   - item: Climbing
-    #     link:
+    interests:
+      - item: Видеоигры
+        link:
 
-    #   - item: Snowboarding
-    #     link:
+      - item: Музыка
+        link:
 
     #   - item: Cooking
     #     link:
@@ -117,7 +117,7 @@ projects:
     assignments:
       - title: Projects Data Base
         link: github.com/Jonics7/diary_tasks_v2
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Платформа для хранения своих проектов"
 
       # - title: DevStudio
       #   link: "#"
@@ -158,7 +158,7 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Навыки
 
     toolset:
       - name: Python & Django
@@ -168,7 +168,7 @@ skills:
         level: 50%
 
       - name: React JS
-        level: 65%
+        level: 50%
 
       - name: HTML5 & CSS
         level: 80%
