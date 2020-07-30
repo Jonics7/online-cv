@@ -25,22 +25,22 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    Языки:
       - idiom: Русский
         level: Родной 
 
       - idiom: Английский
         level: Базовый
 
-    interests:
-      - item: Climbing
-        link:
+    # interests:
+    #   - item: Climbing
+    #     link:
 
-      - item: Snowboarding
-        link:
+    #   - item: Snowboarding
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
 # career-profile:
 #     title: Career Profile
@@ -51,6 +51,10 @@ sidebar:
 #       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 #       Donec quam felis, ultricies nec, pellentesque eu.
 #       Second paragraph if required.
+
+Описание:
+    summary: Hello
+
 # education:
 #     - degree: MSc in Computer Science
 #       university: University of London
