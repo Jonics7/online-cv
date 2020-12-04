@@ -67,10 +67,10 @@ experiences:
     - role: Front-end разработчик
       time: 2020
       company: Loot+
-      details: >
-        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+      details: |
+        -RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
-        -Desktop + mobile верстка\n
+        -Desktop + mobile верстка
         -Интеграция с backend
 #     - role: Senior Software Engineer
 #       time: 2014 - 2015
