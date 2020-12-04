@@ -68,10 +68,10 @@ experiences:
       time: 2020
       company: Loot+
       details: |
-        -RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+        - RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
-        -Desktop + mobile верстка
-        -Интеграция с backend
+        - Desktop + mobile верстка
+        - Интеграция с backend
 #     - role: Senior Software Engineer
 #       time: 2014 - 2015
 #       company: Google, London
