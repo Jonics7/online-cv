@@ -14,11 +14,11 @@ sidebar:
     # Sidebar links
     email: jonics7@mail.ru
     phone: +7 901 287 59 19
+    telegram: Jonics7 # add your nickname without '@' sign
+    gitlab: Jonics7
     # website:  #do not add http://
     # linkedin: alandoe
-    gitlab: Jonics7
     github: Jonics7
-    telegram: Jonics7 # add your nickname without '@' sign
     bitbucket:
     # twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -67,7 +67,7 @@ experiences:
     - role: Front-end разработчик
       time: 2020
       company: Loot+
-      details: |
+      details:
         - RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
         - Desktop + mobile верстка
