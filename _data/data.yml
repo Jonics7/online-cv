@@ -8,8 +8,8 @@ sidebar:
 
     # Profile information
     name: Дмитрий Мансуров
-    tagline: Web-developer
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Веб-разработчик
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jonics7@mail.ru
@@ -63,22 +63,15 @@ education:
 #         pretium quis, sem.
 #           - Bullet point
 #           - Bullet point
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
-#           - Bullet point
-#           - Bullet point
+experiences:
+    - role: Front-end разработчик
+      time: 2020
+      company: Loot+
+      details: |
+        RMT - платформа для продажи ингейм предметов и услут в олайн играх.
+
+        -Desctop + mobile верстка
+        -Интеграция
 #     - role: Senior Software Engineer
 #       time: 2014 - 2015
 #       company: Google, London
@@ -112,11 +105,7 @@ projects:
         link: "https://github.com/Jonics7/diary_tasks_v2"
         tagline: "Платформа для хранения своих проектов"
         
-      - title: Loot+
-        link: "https://loot.plus"
-        tagline: "RMT-platform for selling items and services from MMOs"
-        
-      - title: Bug Tracker
+      - title: Багстер
         link: "https://xn--80abhi9ceh.xn--p1ai/"
         tagline: "Баг-трекер с элементами игровой механики"
 
@@ -152,13 +141,13 @@ skills:
       - name: HTML5 & CSS
         level: 90%
 
-      - name: React + Redux (Typescript)
+      - name: React + Redux (TS)
         level: 60%
 
       - name: Python & Django
-        level: 50%
+        level: 35%
 
-      - name: NodeJS (Typescript)
+      - name: NodeJS (TS)
         level: 50%
 
       - name: С#, C++ 
