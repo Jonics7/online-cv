@@ -68,10 +68,10 @@ experiences:
       time: 2020
       company: Loot+
       details: |
-        RMT - платформа для продажи ингейм предметов и услут в олайн играх.
+        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
-        -Desctop + mobile верстка
-        -Интеграция
+        -Desktop + mobile верстка 
+        -Интеграция с backend
 #     - role: Senior Software Engineer
 #       time: 2014 - 2015
 #       company: Google, London
@@ -129,7 +129,7 @@ publications:
     title: Achievements
     intro: 
     papers:
-      - title: Open Space Hackathon, online (RU), 1-st place
+      - title: Open Space Hackathon, онлайн, 1-е место
         link: 
         authors: Банк Открытие
         conference: 
