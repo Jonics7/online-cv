@@ -7,8 +7,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Dmitry Mansurov
-    tagline: DESCRIPTION
+    name: Дмитрий Мансуров
+    tagline: Web-developer
     # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,8 +26,8 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages: 
-      - idiom: Russian
-        level: Native 
+      - idiom: Русский
+        level: Родной 
 
       - idiom: English
         level: Elementary
@@ -43,22 +43,15 @@ sidebar:
     #     link:
 
 career-profile:
-    title: Description
+    title: О себе
     summary: |
       Web developer.
 
-# education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+education:
+    - degree: Юридический факультет
+      university: ИВгУ
+      time: 2019 - 2020
+      details: 
 #     - degree: BSc in Applied Mathematics
 #       university: Bristol University
 #       time: 2007 - 2011
@@ -109,7 +102,7 @@ career-profile:
 #           - Bullet point
 #           - Bullet point
 projects:
-    title: PERSONAL PROJECTS
+    title: Реализованные проекты
     # intro: >
     #   You can list your side projects or open source libraries in this
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -118,11 +111,14 @@ projects:
       - title: Projects Data Base
         link: "https://github.com/Jonics7/diary_tasks_v2"
         tagline: "Платформа для хранения своих проектов"
-
-    assignments:
+        
       - title: Loot+
         link: "https://loot.plus"
         tagline: "RMT-platform for selling items and services from MMOs"
+        
+      - title: Bug Tracker
+        link: "https://xn--80abhi9ceh.xn--p1ai/"
+        tagline: "Баг-трекер с элементами игровой механики"
 
       # - title: DevStudio
       #   link: "#"
@@ -146,7 +142,7 @@ publications:
     papers:
       - title: Open Space Hackathon, online (RU), 1-st place
         link: 
-        authors: Open Space
+        authors: Банк Открытие
         conference: 
 
 skills:
