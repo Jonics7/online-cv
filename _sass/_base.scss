@@ -178,8 +178,15 @@ p {
         .details {
             display: flex;
 
-            a::after {
-                content: ' - ';
+            a {
+                p {
+                    margin: 0;
+                    width: max-content;
+                
+                    &::after {
+                        content: ' - ';
+                    }
+                }
             }
         }
     }
