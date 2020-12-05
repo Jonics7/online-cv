@@ -174,21 +174,6 @@ p {
         .item {
             margin-bottom: 30px;
         }
-
-        .details {
-            display: flex;
-
-            a {
-                p {
-                    margin: 0;
-                    width: max-content;
-                
-                    &::after {
-                        content: ' - ';
-                    }
-                }
-            }
-        }
     }
     .upper-row {
         position: relative;
