@@ -67,8 +67,9 @@ experiences:
     - role: Front-end разработчик
       time: 2020
       company: Loot+
+      link: "https://loot.plus/"
       details: |
-        "https://loot.plus/" - RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
         - Desktop + mobile верстка
         - Интеграция с backend
