@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: О себе
     summary: |
-      Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт разработки backend на Node JS и Python (django 3.x). Мечатаю посвятить свою жизнь разработке веб-приложений. В свободное время реализую собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
+      Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт разработки backend на Node JS и Python (django 3.x). В свободное время реализую собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
 
 education:
     - degree: Юридический факультет
@@ -139,16 +139,16 @@ skills:
 
     toolset:
       - name: HTML5 & CSS
-        level: 90%
+        level: 80%
 
       - name: React + Redux (TS)
-        level: 60%
+        level: 50%
 
       - name: Python & Django
         level: 35%
 
       - name: NodeJS (TS)
-        level: 50%
+        level: 35%
 
       - name: С#, C++ 
         level: 15%
