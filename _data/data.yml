@@ -39,9 +39,6 @@ sidebar:
       - item: Музыка
         link:
 
-    #   - item: Cooking
-    #     link:
-
 career-profile:
     title: О себе
     summary: |
@@ -66,12 +63,22 @@ education:
 experiences:
     - role: Front-end разработчик
       time: 2020
-      company: Loot+
+      company: Loot+, Moscow (RU)
       link: "https://loot.plus/"
       details: |
         RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
-        - Desktop + mobile верстка
+        - Desktop + mobile верстка на React (TS)
+        - Интеграция с backend
+        
+    - role: Front-end разработчик
+      time: Февраль 2021 - по настоящее время
+      company: FRANTS Technology & Design, Moscow (RU)
+      link: "https://frants.pro/"
+      details: |
+        Разработка веб - версий приложений для правительства РФ.
+
+        - Адаптивная верстка на React (TS)
         - Интеграция с backend
 #     - role: Senior Software Engineer
 #       time: 2014 - 2015
@@ -143,15 +150,15 @@ skills:
         level: 80%
 
       - name: React + Redux (TS)
-        level: 50%
-
-      - name: Python & Django
-        level: 35%
+        level: 65%
 
       - name: NodeJS (TS)
         level: 35%
 
-      - name: С#, C++ 
-        level: 15%
+      - name: Python & Django
+        level: 25%
+
+      - name: С#
+        level: 25%
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
