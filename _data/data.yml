@@ -48,23 +48,13 @@ education:
     - degree: Юридический факультет
       university: ИВгУ
       time: 2019 - 2020
-      details: 
-#     - degree: BSc in Applied Mathematics
-#       university: Bristol University
-#       time: 2007 - 2011
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+      details:
+
 experiences:
     - role: Front-end разработчик
       time: 2020
       company: Loot+, Moscow (RU)
-      link: "https://loot.plus/"
+      link: ""
       details: |
         RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
 
@@ -80,58 +70,27 @@ experiences:
 
         - Адаптивная верстка на React (TS)
         - Интеграция с backend
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+
+        Разработка интерактивных инсталляций (Unity разработка).
+
+        - Музейные инсталляции
+        - Форумы
+        - Выставки
+
 projects:
     title: Реализованные проекты
-    # intro: >
-    #   You can list your side projects or open source libraries in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Projects Data Base
         link: "https://github.com/Jonics7/diary_tasks_v2"
         tagline: "Платформа для хранения своих проектов"
         
       - title: Багстер
-        link: "https://xn--80abhi9ceh.xn--p1ai/"
+        link: "https://gitlab.com/bugsterr/bugster"
         tagline: "Баг-трекер с элементами игровой механики"
 
-      # - title: DevStudio
-      #   link: "#"
-      #   tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      # - title: Tempo
-      #   link: "#"
-      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      # - title: Atom
-      #   link: "#"
-      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      # - title: Delta
-      #   link: "#"
-      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Warible Game
+      link: "https://github.com/UnimaginaryUnit/warible-game"
+      tagline: "Карточная онлайн игра (блокчейн)"
 
 publications:
     title: Достижения
@@ -140,17 +99,21 @@ publications:
       - title: Open Space Hackathon, онлайн, 1-е место
         link: 
         authors: Банк Открытие
+        conference:
+      - title: Definition Hackathon, оффлайн, специальный приз
+        link: 
+        authors: Zerion, Rarible, Bitscale capital
         conference: 
 
 skills:
     title: Навыки
 
     toolset:
-      - name: HTML5 & CSS
-        level: 80%
-
-      - name: React + Redux (TS)
+      - name: React & Redux (TS)
         level: 65%
+
+      - name: С# & Unity
+        level: 40%
 
       - name: NodeJS (TS)
         level: 35%
@@ -158,7 +121,5 @@ skills:
       - name: Python & Django
         level: 25%
 
-      - name: С#
-        level: 25%
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      -name: C++
+        level: 10%
