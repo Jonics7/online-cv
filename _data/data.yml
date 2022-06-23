@@ -70,9 +70,7 @@ experiences:
 
         - Адаптивная верстка на React (TS)
         - Интеграция с backend
-
-        Разработка интерактивных инсталляций (Unity разработка).
-
+        - Разработка интерактивных инсталляций (Unity разработка).
         - Музейные инсталляции
         - Форумы
         - Выставки
@@ -113,7 +111,6 @@ publications:
         link: 
         authors: Банк Открытие
         conference:
-
       - title: Definition Hackathon, оффлайн, специальный приз
         link: 
         authors: Zerion, Rarible, Bitscale capital
@@ -125,15 +122,11 @@ skills:
     toolset:
       - name: React & Redux (TS)
         level: 75%
-
       - name: С# & Unity
         level: 40%
-
       - name: NodeJS (TS)
         level: 35%
-
       - name: Python
         level: 25%
-
-      -name: C++
+      - name: C++
         level: 10%
