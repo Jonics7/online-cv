@@ -62,7 +62,7 @@ experiences:
         - Интеграция с backend
         
     - role: Front-end разработчик
-      time: Февраль 2021 - по настоящее время
+      time: Февраль 2021 - Октябрь 2021
       company: FRANTS Technology & Design, Moscow (RU)
       link: "https://frants.pro/"
       details: |
@@ -76,6 +76,19 @@ experiences:
         - Музейные инсталляции
         - Форумы
         - Выставки
+    
+    - role: Fullstack разработчик, Game developer
+      time: Ноябрь 2021 - по настоящее время
+      company: Sensorium XR
+      link: "https://sensoriumgalaxy.com/"
+      details: |
+        Play-to-earn game development & blockchain integration
+
+        - Landing (TypeScript)
+        - Имплементация игровой логики
+        - Python
+        - Bevy Engine (Rust)
+
 
 projects:
     title: Реализованные проекты
