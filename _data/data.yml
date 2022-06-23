@@ -102,8 +102,8 @@ projects:
         tagline: "Баг-трекер с элементами игровой механики"
 
       - title: Warible Game
-      link: "https://github.com/UnimaginaryUnit/warible-game"
-      tagline: "Карточная онлайн игра (блокчейн)"
+        link: "https://github.com/UnimaginaryUnit/warible-game"
+        tagline: "Карточная онлайн игра (блокчейн)"
 
 publications:
     title: Достижения
@@ -113,7 +113,7 @@ publications:
         link: 
         authors: Банк Открытие
         conference:
-        
+
       - title: Definition Hackathon, оффлайн, специальный приз
         link: 
         authors: Zerion, Rarible, Bitscale capital
@@ -124,7 +124,7 @@ skills:
 
     toolset:
       - name: React & Redux (TS)
-        level: 65%
+        level: 75%
 
       - name: С# & Unity
         level: 40%
@@ -132,7 +132,7 @@ skills:
       - name: NodeJS (TS)
         level: 35%
 
-      - name: Python & Django
+      - name: Python
         level: 25%
 
       -name: C++
