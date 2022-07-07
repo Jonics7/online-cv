@@ -85,7 +85,8 @@ experiences:
         - Landing (TypeScript)
         - Имплементация игровой логики
         - Python
-        - Bevy Engine (Rust)
+        - Клиентская часть игры
+        - Интреграция клиентской части игры с backend
 
 
 projects:
