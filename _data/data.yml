@@ -3,117 +3,117 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Дмитрий Мансуров
-    tagline: Веб-разработчик
-    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Дмитрий Мансуров
+  tagline: Веб-разработчик
+  avatar: avatar.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jonics7@mail.ru
-    phone: +7 901 287 59 19
-    telegram: Jonics7 # add your nickname without '@' sign
-    gitlab: Jonics7
-    github: Jonics7S
-    # website:  #do not add http://
-    # linkedin: alandoe
-    # timezone: America/Cancun Timezone
-    # citizenship:
-    # xing: alandoe
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: jonics7@mail.ru
+  phone: +7 901 287 59 19
+  telegram: Jonics7 # add your nickname without '@' sign
+  gitlab: Jonics7
+  github: Jonics7S
+  # website:  #do not add http://
+  # linkedin: alandoe
+  # timezone: America/Cancun Timezone
+  # citizenship:
+  # xing: alandoe
+  # bitbucket:
+  # twitter: '@webjeda'
+  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  # codewars:
+  # goodreads: # Number-Username, e.g. 123456-alandoe
+  # pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages: 
-      - idiom: Русский
-        level: Родной 
+  languages:
+    - idiom: Русский
+      level: Родной
 
-      - idiom: English
-        level: Elementary
+    - idiom: English
+      level: Elementary
 
-    interests:
-      - item: Видеоигры
-        link:
+  interests:
+    - item: Видеоигры
+      link:
 
-      - item: Музыка
-        link:
+    - item: Музыка
+      link:
 
 career-profile:
-    title: О себе
-    summary: |
-        Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS 
-	    и Python (nameko), Unity разработки (интерактивные инсталляции). В свободное время реализую
-	    собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
+  title: О себе
+  summary: |
+    Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS 
+    и Python (nameko), Unity разработки (интерактивные инсталляции). В свободное время реализую
+    собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
 
 education:
-	title: Education
-    info:
-      - degree: Юридический факультет
-        university: ИВгУ
-        time: 2019 - 2020
-        details:
+  title: Education
+  info:
+    - degree: Юридический факультет
+      university: ИВгУ
+      time: 2019 - 2020
+      details:
 
 experiences:
-	title: Experiences
-    info:
-	  - role: Fullstack разработчик, Game developer
-        time: Ноябрь 2021 - по настоящее время
-        company: Sensorium XR
-        link: "https://sensoriumgalaxy.com/"
-        details: |
-          Play-to-earn blockchain web game
-		    - Клиентская часть игры (Typescript, pixijs, inversifyjs)
-			- Интреграция клиентской части игры с backend
-		
-		  Backend
-			- Python
-			- Разработка микросервисов на nameko
-			- Имплементация игровой логики
+  title: Experiences
+  info:
+    - role: Fullstack разработчик, Game developer
+      time: Ноябрь 2021 - по настоящее время
+      company: Sensorium XR
+      link: "https://sensoriumgalaxy.com/"
+      details: |
+        Play-to-earn blockchain web game
+          - Клиентская часть игры (Typescript, pixijs, inversifyjs)
+          - Интреграция клиентской части игры с backend
 
-		  Landing (dapp.sensoriumxr.com)
-			- React (TS), framer-motion, Scss
-			- Разработка сложных анимаций
-			- Адаптивная верстка
-        
-      - role: Front-end разработчик
-        time: Февраль 2021 - Октябрь 2021
-        company: FRANTS Technology & Design, Moscow (RU)
-        link: "https://frants.pro/"
-        details: |
-          Разработка веб - версий десктопных приложений.
-			- React (TS), Scss, Styled-components
-			- Адаптивная верстка
-			- Интеграция с backend
-        
-		  Разработка интерактивных инсталляций (Unity разработка).
-			- Музейные инсталляции
-			- Форумы
-			- Выставки
+        Backend
+          - Python
+          - Разработка микросервисов на nameko
+          - Имплементация игровой логики
 
-      - role: Front-end разработчик
-        time: 2020
-        company: Loot+, Moscow
-        details: |
-          RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
-            - React & Redux (TS), Scss
-			- Адаптивная верстка
-            - Интеграция с backend
-    
+        Landing (dapp.sensoriumxr.com)
+          - React (TS), framer-motion, Scss
+          - Разработка сложных анимаций
+          - Адаптивная верстка
+
+    - role: Front-end разработчик
+      time: Февраль 2021 - Октябрь 2021
+      company: FRANTS Technology & Design, Moscow (RU)
+      link: "https://frants.pro/"
+      details: |
+        Разработка веб - версий десктопных приложений.
+          - React (TS), Scss, Styled-components
+          - Адаптивная верстка
+          - Интеграция с backend
+
+        Разработка интерактивных инсталляций (Unity разработка).
+          - Музейные инсталляции
+          - Форумы
+          - Выставки
+
+    - role: Front-end разработчик
+      time: 2020
+      company: Loot+, Moscow
+      details: |
+        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+          - React & Redux (TS), Scss
+          - Адаптивная верстка
+          - Интеграция с backend
+
 projects:
-    title: Реализованные проекты
-    assignments:
-      - title: Багстер
-        link: "https://gitlab.com/bugsterr/bugster"
-        tagline: "Баг-трекер с элементами игровой механики"
+  title: Реализованные проекты
+  assignments:
+    - title: Багстер
+      link: "https://gitlab.com/bugsterr/bugster"
+      tagline: "Баг-трекер с элементами игровой механики"
 
-      - title: Warible Game
-        link: "https://github.com/UnimaginaryUnit/warible-game"
-        tagline: "Карточная онлайн игра (блокчейн)"
+    - title: Warible Game
+      link: "https://github.com/UnimaginaryUnit/warible-game"
+      tagline: "Карточная онлайн игра (блокчейн)"
 
 # oss:
 #     title: OSS Contributions
@@ -136,27 +136,27 @@ projects:
 
 # publications:
 #     title: Достижения
-#     intro: 
+#     intro:
 #     papers:
 #       - title: Open Space Hackathon, онлайн, 1-е место
-#         link: 
+#         link:
 #         authors: Банк Открытие
 #         conference:
 #       - title: Definition Hackathon, оффлайн, специальный приз
-#         link: 
+#         link:
 #         authors: Zerion, Rarible, Bitscale capital
-#         conference: 
+#         conference:
 
 skills:
-    title: Навыки
-    toolset:
-      - name: React (TS)
-        level: 75%
-      - name: С# & Unity
-        level: 40%
-      - name: NodeJS (TS)
-        level: 35%
-      - name: Python
-        level: 25%
-      - name: C++
-        level: 10%
+  title: Навыки
+  toolset:
+    - name: React (TS)
+      level: 75%
+    - name: С# & Unity
+      level: 40%
+    - name: NodeJS (TS)
+      level: 35%
+    - name: Python
+      level: 25%
+    - name: C++
+      level: 10%
