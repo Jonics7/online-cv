@@ -3,11 +3,15 @@
 <div class="languages-container container-block">
 
   <h2 class="container-block-title">
+<<<<<<< HEAD
     Языки
+=======
+    {{ languages.title }}
+>>>>>>> 0d8fce9100abea10b53af0bd786911af5a5f2d0f
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for language in languages %}
+    {% for language in languages.info %}
     <li>
       {{ language.idiom }}
       <span class="lang-desc">({{ language.level }})</span>
