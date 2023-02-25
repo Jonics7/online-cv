@@ -16,14 +16,18 @@ sidebar:
     phone: +7 901 287 59 19
     telegram: Jonics7 # add your nickname without '@' sign
     gitlab: Jonics7
+    github: Jonics7S
     # website:  #do not add http://
     # linkedin: alandoe
-    github: Jonics7
-    bitbucket:
+    # timezone: America/Cancun Timezone
+    # citizenship:
+    # xing: alandoe
+    # bitbucket:
     # twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages: 
       - idiom: Русский
@@ -42,60 +46,67 @@ sidebar:
 career-profile:
     title: О себе
     summary: |
-      Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS и Python (django 3.x), Unity разработки (интерактивные инсталляции). В свободное время реализую собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
+      Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS 
+	  и Python (nameko), Unity разработки (интерактивные инсталляции). В свободное время реализую
+	  собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
 
 education:
-    - degree: Юридический факультет
-      university: ИВгУ
-      time: 2019 - 2020
-      details:
+	title: Education
+    info:
+      - degree: Юридический факультет
+        university: ИВгУ
+        time: 2019 - 2020
+        details:
 
 experiences:
-    - role: Front-end разработчик
-      time: 2020
-      company: Loot+, Moscow (RU)
-      link: ""
-      details: |
-        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+	title: Experiences
+    info:
+	  - role: Fullstack разработчик, Game developer
+        time: Ноябрь 2021 - по настоящее время
+        company: Sensorium XR
+        link: "https://sensoriumgalaxy.com/"
+        details: |
+          Play-to-earn blockchain web game
+		    - Клиентская часть игры (Typescript, pixijs, inversifyjs)
+			- Интреграция клиентской части игры с backend
+		
+		  Backend
+			- Python
+			- Разработка микросервисов на nameko
+			- Имплементация игровой логики
 
-        - Desktop + mobile верстка на React (TS)
-        - Интеграция с backend
+		  Landing (dapp.sensoriumxr.com)
+			- React (TS), framer-motion, Scss
+			- Разработка сложных анимаций
+			- Адаптивная верстка
         
-    - role: Front-end разработчик
-      time: Февраль 2021 - Октябрь 2021
-      company: FRANTS Technology & Design, Moscow (RU)
-      link: "https://frants.pro/"
-      details: |
-        Разработка веб - версий приложений для правительства РФ.
+      - role: Front-end разработчик
+        time: Февраль 2021 - Октябрь 2021
+        company: FRANTS Technology & Design, Moscow (RU)
+        link: "https://frants.pro/"
+        details: |
+          Разработка веб - версий десктопных приложений.
+			- React (TS), Scss, Styled-components
+			- Адаптивная верстка
+			- Интеграция с backend
+        
+		  Разработка интерактивных инсталляций (Unity разработка).
+			- Музейные инсталляции
+			- Форумы
+			- Выставки
 
-        - Адаптивная верстка на React (TS)
-        - Интеграция с backend
-        - Разработка интерактивных инсталляций (Unity разработка).
-        - Музейные инсталляции
-        - Форумы
-        - Выставки
+      - role: Front-end разработчик
+        time: 2020
+        company: Loot+, Moscow
+        details: |
+          RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+            - React & Redux (TS), Scss
+			- Адаптивная верстка
+            - Интеграция с backend
     
-    - role: Fullstack разработчик, Game developer
-      time: Ноябрь 2021 - по настоящее время
-      company: Sensorium XR
-      link: "https://sensoriumgalaxy.com/"
-      details: |
-        Play-to-earn game development & blockchain integration
-
-        - Landing (TypeScript)
-        - Имплементация игровой логики
-        - Python
-        - Клиентская часть игры
-        - Интреграция клиентской части игры с backend
-
-
 projects:
     title: Реализованные проекты
     assignments:
-      - title: Projects Data Base
-        link: "https://github.com/Jonics7/diary_tasks_v2"
-        tagline: "Платформа для хранения своих проектов"
-        
       - title: Багстер
         link: "https://gitlab.com/bugsterr/bugster"
         tagline: "Баг-трекер с элементами игровой механики"
@@ -104,24 +115,42 @@ projects:
         link: "https://github.com/UnimaginaryUnit/warible-game"
         tagline: "Карточная онлайн игра (блокчейн)"
 
-publications:
-    title: Достижения
-    intro: 
-    papers:
-      - title: Open Space Hackathon, онлайн, 1-е место
-        link: 
-        authors: Банк Открытие
-        conference:
-      - title: Definition Hackathon, оффлайн, специальный приз
-        link: 
-        authors: Zerion, Rarible, Bitscale capital
-        conference: 
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#     title: Достижения
+#     intro: 
+#     papers:
+#       - title: Open Space Hackathon, онлайн, 1-е место
+#         link: 
+#         authors: Банк Открытие
+#         conference:
+#       - title: Definition Hackathon, оффлайн, специальный приз
+#         link: 
+#         authors: Zerion, Rarible, Bitscale capital
+#         conference: 
 
 skills:
     title: Навыки
-
     toolset:
-      - name: React & Redux (TS)
+      - name: React (TS)
         level: 75%
       - name: С# & Unity
         level: 40%
