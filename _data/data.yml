@@ -68,11 +68,11 @@ experiences:
     - role: Fullstack разработчик, Game developer
       time: Ноябрь 2021 - по настоящее время
       company: Sensorium XR
-      link: "https://sensoriumgalaxy.com/"
+      link: "https://sensoriumxr.com/"
       details: |
         Play-to-earn blockchain web game
           - Клиентская часть игры (Typescript, pixijs, inversifyjs)
-          - Интреграция клиентской части игры с backend
+          - Интеграция клиентской части игры с backend
 
         Backend
           - Python
