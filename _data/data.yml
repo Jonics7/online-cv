@@ -71,7 +71,7 @@ experiences:
       link: "https://sensoriumxr.com/"
       details: |
         Play-to-earn blockchain web game
-          - Клиентская часть игры (Typescript, pixijs, inversifyjs)
+          - Разработка мультиплеерной карточной игры
           - Интеграция клиентской части игры с backend
 
         Backend
@@ -79,22 +79,31 @@ experiences:
           - Разработка микросервисов на nameko
           - Имплементация игровой логики
 
-        Landing (dapp.sensoriumxr.com)
-          - React (TS), framer-motion, Scss
+        Landing (https://dapp.sensoriumxr.com)
           - Разработка сложных анимаций
           - Адаптивная верстка
+          - Оптимизация анимаций
+          - Оптимизация скорости загрузки страницы
 
     - role: Front-end разработчик
       time: Февраль 2021 - Октябрь 2021
       company: FRANTS Technology & Design, Moscow (RU)
       link: "https://frants.pro/"
       details: |
-        Разработка веб - версий десктопных приложений.
-          - React (TS), Scss, Styled-components
+        Landing (https://akademia.art/)
+          - Разработка сложных анимаций
+          - Адаптивная верстка
+          - Оптимизация анимаций
+          - Оптимизация скорости загрузки страницы
+
+        Аутсорсинг проектов
+          - Разработка веб-версий десктопных приложений.
           - Адаптивная верстка
           - Интеграция с backend
 
-        Разработка интерактивных инсталляций (Unity разработка).
+        Разработка интерактивных инсталляций.
+          - Unity3D
+          - Монтаж инсталляций
           - Музейные инсталляции
           - Форумы
           - Выставки
@@ -118,10 +127,6 @@ projects:
     - title: Warible Game
       link: "https://github.com/UnimaginaryUnit/warible-game"
       tagline: "Карточная онлайн игра (блокчейн)"
-
-    - title: Akademia Art
-      link: "https://akademia.art/"
-      tagline: ""
 
 # oss:
 #     title: OSS Contributions
