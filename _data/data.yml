@@ -36,7 +36,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Elementary
+        level: B1+
 
   interests:
     title: Хобби
@@ -75,9 +75,8 @@ experiences:
           - Интеграция клиентской части игры с backend
 
         Backend
-          - Python
+          - Имплементация игровой логики на Python
           - Разработка микросервисов на nameko
-          - Имплементация игровой логики
 
         Landing (https://dapp.sensoriumxr.com)
           - Разработка сложных анимаций
@@ -90,18 +89,13 @@ experiences:
       company: FRANTS Technology & Design, Moscow (RU)
       link: "https://frants.pro/"
       details: |
-        Landing (https://akademia.art/)
-          - Разработка сложных анимаций
-          - Адаптивная верстка
-          - Оптимизация анимаций
-          - Оптимизация скорости загрузки страницы
-
         Аутсорсинг проектов
-          - Разработка веб-версий десктопных приложений.
+          - Разработка лендинга для https://akademia.art/
+          - Разработка веб-версий десктопных приложений
           - Адаптивная верстка
           - Интеграция с backend
 
-        Разработка интерактивных инсталляций.
+        Разработка интерактивных инсталляций
           - Unity3D
           - Монтаж инсталляций
           - Музейные инсталляции
@@ -109,10 +103,10 @@ experiences:
           - Выставки
 
     - role: Front-end разработчик
-      time: 2020
+      time: Январь 2020 - Январь 2021
       company: Loot+, Moscow
       details: |
-        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх.
+        RMT-платформа для продажи in-game предметов и услуг в онлайн-играх
           - React & Redux (TS), Scss
           - Адаптивная верстка
           - Интеграция с backend
