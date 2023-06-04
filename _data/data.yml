@@ -47,12 +47,12 @@ sidebar:
       - item: Музыка
         link:
 
-career-profile:
-  title: О себе
-  summary: |
-    Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS 
-    и Python (nameko), Unity разработки (интерактивные инсталляции). В свободное время реализую
-    собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
+# career-profile:
+#   title: О себе
+#   summary: |
+#     Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS
+#     и Python (nameko), Unity разработки (интерактивные инсталляции). В свободное время реализую
+#     собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
 
 education:
   title: Образование
@@ -119,6 +119,10 @@ projects:
       link: "https://github.com/UnimaginaryUnit/warible-game"
       tagline: "Карточная онлайн игра (блокчейн)"
 
+    - title: Akademia Art
+      link: "https://akademia.art/"
+      tagline: ""
+
 # oss:
 #     title: OSS Contributions
 #     intro: >
@@ -155,12 +159,10 @@ skills:
   title: Навыки
   toolset:
     - name: React (TS)
-      level: 75%
-    - name: С# & Unity
+      level: 90%
+    - name: C# & Unity
       level: 40%
     - name: NodeJS (TS)
       level: 35%
     - name: Python
-      level: 25%
-    - name: C++
-      level: 10%
+      level: 35%
