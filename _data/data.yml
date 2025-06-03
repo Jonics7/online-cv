@@ -63,10 +63,22 @@ education:
       details:
 
 experiences:
-  title: Опыт работы (3.5 года)
+  title: Опыт работы
   info:
+    - role: Front-end разработчик
+      time: Октябрь 2024 - по настоящее время
+      company: Smart Label
+      link: "https://s-l.center/"
+      details: |
+        Чат с искусственным интеллектом Oracle для эзотерики и астрологии.
+        Разработано веб-приложение на базе Next.js с интеграцией Vercel AI SDK для создания чат-бота в реальном времени.
+        Oracle показан с использованием аватара, состоящего из десятков чередующихся видео, создающих опыт в реальном времени.
+        Использованы Tailwind CSS и CSS Modules для стилизации интерфейса.
+        Для управления сложной логикой состояний приложения применена библиотека XState, что позволило эффективно обрабатывать различные сценарии взаимодействия с пользователем.
+
+
     - role: Fullstack разработчик, Game developer
-      time: Ноябрь 2021 - по настоящее время
+      time: Ноябрь 2021 - Сентябрь 2024
       company: Sensorium XR
       link: "https://sensoriumxr.com/"
       # details: |
@@ -159,9 +171,11 @@ skills:
   toolset:
     - name: React (TS)
       level: 90%
-    - name: C# & Unity
-      level: 40%
-    - name: NodeJS (TS)
+    - name: NextJS
+      level: 75%
+    - name: CSS
+      level: 75%
+    - name: Rust
       level: 35%
     - name: Python
       level: 35%
