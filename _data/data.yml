@@ -8,17 +8,17 @@ sidebar:
 
   # Profile information
   name: Дмитрий Мансуров
-  tagline: Веб-разработчик
-  avatar: avatar.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Frontend разработчик
+  avatar: avatar100x100.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: jonics7@mail.ru
+  email: jonics4706@gmail.com
   phone: +7 901 287 59 19
   telegram: Jonics7
   gitlab: Jonics7
   github: Jonics7
   # website:  #do not add http://
-  # linkedin: alandoe
+  linkedin: jonics7
   # timezone: America/Cancun Timezone
   # citizenship:
   # xing: alandoe
@@ -36,23 +36,24 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: B1+
+        level: B1 (техническое чтение)
 
   interests:
     title: Хобби
     info:
-      - item: Видеоигры
+      - item: Видеоигры (в том числе создание)
         link:
 
       - item: Музыка
         link:
 
-# career-profile:
-#   title: О себе
-#   summary: |
-#     Я - веб-разработчик, специализирующийся на React + Redux. Есть опыт backend разработки на Node JS
-#     и Python (nameko), Unity разработки (интерактивные инсталляции). В свободное время реализую
-#     собственные мини-проекты, а так же работаю над соместными продуктами с друзьями-энтузиастами.
+career-profile:
+  title: О себе
+  summary: >
+    Frontend-разработчик (React/Next.js) с 4+ годами опыта создания интерактивных SPA/SSR-приложений.
+    Специализируюсь на создании интерактивных, производительных и адаптивных веб-приложений.
+    Имею опыт реализации сложной логики состояния (XState), анимаций (Framer Motion).
+    Активно использую Tailwind, Typescript. Постоянно развиваюсь и не боюсь нестандартных задач.
 
 education:
   title: Образование
@@ -65,44 +66,54 @@ education:
 experiences:
   title: Опыт работы
   info:
-    - role: Front-end разработчик
+    - role: Frontend разработчик (Удаленно)
       time: Октябрь 2024 - по настоящее время
       company: Smart Label
       link: "https://s-l.center/"
       details: |
-        Чат с искусственным интеллектом Oracle для эзотерики и астрологии.
-        Разработано веб-приложение на базе Next.js с интеграцией Vercel AI SDK для создания чат-бота в реальном времени.
-        Oracle показан с использованием аватара, состоящего из десятков чередующихся видео, создающих опыт в реальном времени.
-        Использованы Tailwind CSS и CSS Modules для стилизации интерфейса.
-        Для управления сложной логикой состояний приложения применена библиотека XState, что позволило эффективно обрабатывать различные сценарии взаимодействия с пользователем.
+        Чат с искусственным интеллектом Oracle для эзотерики и астрологии в реальном времени.
+          - Next.js + Vercel AI SDK
+          - TailwindCSS + CSS Modules
+          - XState для управления сложной логикой состояний приложения.
+          - Oracle показан с использованием аватара, состоящего из десятков чередующихся видео, создающих опыт в реальном времени.
 
+    - role: Frontend разработчик (Удаленно, part-time)
+      time: Ноябрь 2023 - Февраль 2024
+      company: Temporal Games
+      link: "https://temporal.games/"
+      details: |
+        Чат с искусственным интеллектом для генерации 3D моделей в реальном времени.
+          - React JS + SCSS Modules.
+          - Средство просмотра 3D моделей с использованием babylon.js.
 
-    - role: Fullstack разработчик, Game developer
+    - role: Fullstack разработчик (Удаленно)
       time: Ноябрь 2021 - Сентябрь 2024
       company: Sensorium XR
       link: "https://sensoriumxr.com/"
-      # details: |
-      #   Play-to-earn blockchain web game
-      #     - Разработка мультиплеерной карточной игры
-      #     - Интеграция клиентской части игры с backend
+      details: |
+        Лендинг https://dapp.sensoriumxr.com
+          - ReactJS, Typescript, SCSS Modules, Framer Motion
+          - Разработка сложных анимаций, оптимизация
+          - Оптимизация скорости загрузки страницы
+          - Адаптивная верстка
 
-      #   Backend
-      #     - Имплементация игровой логики на Python
-      #     - Разработка микросервисов на nameko
+        Лендинг https://digitalresidency.com
+          - Next.js, Typescript, SCSS Modules
+          - Интеграция с cms (Strapi)
 
-      #   Landing (https://dapp.sensoriumxr.com)
-      #     - Разработка сложных анимаций
-      #     - Адаптивная верстка
-      #     - Оптимизация анимаций
-      #     - Оптимизация скорости загрузки страницы
+        Play-to-earn блокчейн веб-игра
+          - ReactJS, Typescript, PIXI.js, Python (Nameko)
+          - Разработка мультиплеерной карточной игры (WebGl 2D)
+          - Имплементация игровой логики на Python (Backend)
+          - Разработка микросервисов на nameko (Backend)
 
-    - role: Front-end разработчик
+    - role: Frontend разработчик (Офис)
       time: Февраль 2021 - Октябрь 2021
-      company: FRANTS Technology & Design, Moscow (RU)
+      company: FRANTS Technology & Design
       link: "https://frants.pro/"
       details: |
         Аутсорсинг проектов
-          - Разработка лендинга для https://akademia.art/
+          - Лендинг для ACADEMIA (https://akademia.art)
           - Разработка веб-версий десктопных приложений
           - Адаптивная верстка
           - Интеграция с backend
@@ -114,12 +125,12 @@ experiences:
           - Форумы
           - Выставки
 
-    - role: Front-end разработчик
+    - role: Frontend разработчик (Удаленно)
       time: Январь 2020 - Январь 2021
-      company: Loot+, Moscow
+      company: Loot+
       details: |
         RMT-платформа для продажи in-game предметов и услуг в онлайн-играх
-          - React & Redux (TS), Scss
+          - React & Redux (TS), SCSS
           - Адаптивная верстка
           - Интеграция с backend
 
@@ -157,11 +168,11 @@ publications:
   title: Достижения
   intro:
   papers:
-    - title: Open Space Hackathon, онлайн, 1-е место
+    - title: Open Space Hackathon, онлайн, 1-е место, проект Багстер
       link:
       authors: Банк Открытие
       conference:
-    - title: Definition Hackathon, оффлайн, специальный приз
+    - title: Definition Hackathon, оффлайн, специальный приз, проект Warible Game
       link:
       authors: Zerion, Rarible, Bitscale capital
       conference:
@@ -169,13 +180,13 @@ publications:
 skills:
   title: Навыки
   toolset:
-    - name: React (TS)
-      level: 90%
-    - name: NextJS
-      level: 75%
-    - name: CSS
-      level: 75%
-    - name: Rust
-      level: 35%
-    - name: Python
-      level: 35%
+    - group: "Языки:"
+      value: JavaScript, TypeScript, HTML, CSS, Python, Rust
+    - group: "Фреймворки:"
+      value: React, Next.js, Babylon.js, PIXI.js
+    - group: "Стилизация:"
+      value: Tailwind, SCSS, CSS Modules
+    - group: "Инструменты"
+      value: Git, Figma
+    - group: "Прочее"
+      value: XState, Framer Motion, Strapi, Bevy, Axum, Nameko
