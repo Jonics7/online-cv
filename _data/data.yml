@@ -72,7 +72,7 @@ experiences:
       link: "https://s-l.center/"
       details: |
         Чат с искусственным интеллектом Oracle для эзотерики и астрологии в реальном времени.
-          - Next.js + Vercel AI SDK
+          - Next.js + Vercel AI SDK (Интеграция с OpenAI-like API модели-обертки поверх GPT)
           - TailwindCSS + CSS Modules
           - XState для управления сложной логикой состояний приложения.
           - Oracle - аватар, состоящий из десятков чередующихся видео, создающих опыт в реальном времени.
@@ -84,7 +84,7 @@ experiences:
       details: |
         Чат с искусственным интеллектом для генерации 3D моделей в реальном времени.
           - React JS + SCSS Modules.
-          - Интеграция с OpenAI-like API модели-обертки поверх GPT.
+          - Интеграция с кастомной OpenAI-like LLM моделью.
           - Средство просмотра 3D моделей с использованием babylon.js.
 
     - role: Fullstack разработчик (Удаленно)
