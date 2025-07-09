@@ -190,6 +190,6 @@ skills:
     - group: "Инструменты"
       value: Git, Figma
     - group: "Прочее"
-      value: XState, Framer Motion, Strapi, Bevy, Axum, Nameko
+      value: XState, Framer Motion, Strapi, Bevy, Axum, Nameko, RTK Query
     - group: "AI"
       value: Vercel AI SDK, LLM APIs
